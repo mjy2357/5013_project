@@ -21,6 +21,6 @@ python 5013_CNN.py
 ```
 
 ```bash
-python ResNet.py
+python 5013_ResNet.py
 ```
 
