@@ -23,4 +23,10 @@ python 5013_CNN.py
 ```bash
 python 5013_ResNet.py
 ```
+If you interrupt the execution of the first .py file and immediately run the second .py file, errors may occur. In this case, you will need to kill the current terminal, create a new one, and run the following command:
 
+```bash
+conda activate 5013_project
+cd 5013_project
+python 5013_ResNet.py
+```
